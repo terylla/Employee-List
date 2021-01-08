@@ -4,7 +4,7 @@ A simple Spring Boot + React REST manipulation of an employee list.
 <br>         ---- Nonetheless, UI might be updated later -----
 <br>You can GET, POST, DELETE, PUT the employee.
 
-## Spring Boot features:
+### Spring Boot dependencies:
 
 **Dependencies**  | 
 ------------- | 
