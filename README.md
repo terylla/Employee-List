@@ -4,8 +4,8 @@ A simple Spring Boot + React REST manipulation of an employee list.
 <br> ----UI might be updated later-----
 <br>You can GET, POST, DELETE, PUT the employee.
 
-#Dependecies:
-Rest Repositories
-Thymeleaf
-JPA
-H2
+# Dependecies:
+ Rest Repositories
+ Thymeleaf
+ JPA
+ H2
