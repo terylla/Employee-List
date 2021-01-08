@@ -6,7 +6,7 @@ A simple Spring Boot + React REST manipulation of an employee list.
 
 ### Spring Boot dependencies:
 
-**Dependencies**  | 
+
 ------------- | 
 Thymeleaf     | 
 Rest Repository     | 
